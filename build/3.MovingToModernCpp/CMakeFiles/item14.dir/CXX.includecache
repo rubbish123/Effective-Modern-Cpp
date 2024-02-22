@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/meandi/Effective Modern Cpp/3.MovingToModernCpp/item14.cpp
+vector
+-
+string
+-
+array
+-
+iostream
+-
+

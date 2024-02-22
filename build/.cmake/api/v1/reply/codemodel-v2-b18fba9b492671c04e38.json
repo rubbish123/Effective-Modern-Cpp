@@ -1,0 +1,308 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "1.DeducingTypes",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "1.DeducingTypes",
+					"targetIndexes" : 
+					[
+						6,
+						7,
+						8,
+						9,
+						12,
+						16,
+						17,
+						18,
+						20
+					]
+				},
+				{
+					"build" : "2.Auto",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "2.Auto",
+					"targetIndexes" : 
+					[
+						10,
+						11,
+						21
+					]
+				},
+				{
+					"build" : "3.MovingToModernCpp",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "3.MovingToModernCpp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						13,
+						14,
+						15,
+						19
+					]
+				},
+				{
+					"build" : "4.SmartPointers",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "4.SmartPointers",
+					"targetIndexes" : 
+					[
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					],
+					"name" : "effectivemoderncpp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 3,
+					"id" : "base10::@757b198eb263c499811d",
+					"jsonFile" : "target-base10-Debug-50d3138d772947d1d87e.json",
+					"name" : "base10",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "base11::@757b198eb263c499811d",
+					"jsonFile" : "target-base11-Debug-6e48fd0ba80a7de25e6a.json",
+					"name" : "base11",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "base11_3::@757b198eb263c499811d",
+					"jsonFile" : "target-base11_3-Debug-53b3a0dba78732582140.json",
+					"name" : "base11_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "base12::@757b198eb263c499811d",
+					"jsonFile" : "target-base12-Debug-779129731496664517f8.json",
+					"name" : "base12",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "base14::@9d15007c2e7b2a88c760",
+					"jsonFile" : "target-base14-Debug-b62a7d24827729570527.json",
+					"name" : "base14",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "base16::@9d15007c2e7b2a88c760",
+					"jsonFile" : "target-base16-Debug-ece8aea3f9b1fe548dfa.json",
+					"name" : "base16",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "base2::@b883a5f723bdad74ba71",
+					"jsonFile" : "target-base2-Debug-443de8ee3b96f4a8feb1.json",
+					"name" : "base2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "base3::@b883a5f723bdad74ba71",
+					"jsonFile" : "target-base3-Debug-80942a33c957e8f5a00d.json",
+					"name" : "base3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "base4::@b883a5f723bdad74ba71",
+					"jsonFile" : "target-base4-Debug-21a9c4f8fc57581f1054.json",
+					"name" : "base4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "base6::@b883a5f723bdad74ba71",
+					"jsonFile" : "target-base6-Debug-f4468fc0ad9c824da9bf.json",
+					"name" : "base6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "base7::@377c0651fd1497676074",
+					"jsonFile" : "target-base7-Debug-95c97f5f00bc64d6ed06.json",
+					"name" : "base7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "base9::@377c0651fd1497676074",
+					"jsonFile" : "target-base9-Debug-60da615a119a0ce442a7.json",
+					"name" : "base9",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "item1::@b883a5f723bdad74ba71",
+					"jsonFile" : "target-item1-Debug-09216db2f11e5b8dc056.json",
+					"name" : "item1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "item10::@757b198eb263c499811d",
+					"jsonFile" : "target-item10-Debug-0141c87c76663afd4c33.json",
+					"name" : "item10",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "item14::@757b198eb263c499811d",
+					"jsonFile" : "target-item14-Debug-52a80363200f438c76a5.json",
+					"name" : "item14",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "item17::@757b198eb263c499811d",
+					"jsonFile" : "target-item17-Debug-ca29f068a67c779310a5.json",
+					"name" : "item17",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "item23::@b883a5f723bdad74ba71",
+					"jsonFile" : "target-item23-Debug-bb21a885158189bef8fc.json",
+					"name" : "item23",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "item3::@b883a5f723bdad74ba71",
+					"jsonFile" : "target-item3-Debug-830b37c676bc925d37fb.json",
+					"name" : "item3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "item7::@b883a5f723bdad74ba71",
+					"jsonFile" : "target-item7-Debug-7ca4bc7353590ced9849.json",
+					"name" : "item7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "item8::@757b198eb263c499811d",
+					"jsonFile" : "target-item8-Debug-1906fac7d0195d8df919.json",
+					"name" : "item8",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "item9::@b883a5f723bdad74ba71",
+					"jsonFile" : "target-item9-Debug-4e85019a0c4b646ad098.json",
+					"name" : "item9",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test::@377c0651fd1497676074",
+					"jsonFile" : "target-test-Debug-0a3bff5961853c345418.json",
+					"name" : "test",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/meandi/Effective Modern Cpp/build",
+		"source" : "/home/meandi/Effective Modern Cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}
